@@ -1,2 +1,0 @@
-# pickimage
-storing files
